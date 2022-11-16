@@ -1,0 +1,40 @@
+{
+    "name": "Bored Kennel Yacht Club #3",
+    "description": "5,000 unique Bored Kennels on the Dogechain.",
+    "image": "ipfs://bafybeigh6outgpiernko2dsett44eqhkygpqzokrnprfxdlgiroien6gxy/3.png",
+    "dna": "eae7953c51e8c37215a7df209d53ea6c6cd8754e",
+    "edition": 3,
+    "date": 1662301468919,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey "
+        },
+        {
+            "trait_type": "Base",
+            "value": "Spotted Black "
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Vest "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored Light Tan "
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Heart Glasses "
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Blank "
+        },
+        {
+            "trait_type": "Snout",
+            "value": "Rust Light Brown "
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "id": 3
+}
