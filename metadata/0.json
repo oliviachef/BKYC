@@ -1,7 +1,7 @@
 {
     "name": "Bored Kennel Yacht Club #1",
     "description": "5,000 unique Bored Kennels on the Dogechain.",
-    "image": "https://raw.githubusercontent.com/oliviachef/BKYC/main/NFTs/0.png",
+    "image": "ipfs://bafybeigh6outgpiernko2dsett44eqhkygpqzokrnprfxdlgiroien6gxy/1.png",
     "dna": "30239af61a16950ef69c92d283861603476524e2",
     "edition": 1,
     "date": 1662301467968,
@@ -36,5 +36,5 @@
         }
     ],
     "compiler": "HashLips Art Engine",
-    "id": 0
+    "id": 1
 }
